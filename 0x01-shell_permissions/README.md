@@ -1,1 +1,1 @@
-Shell permission
+switches the current user
